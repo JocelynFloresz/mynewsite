@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /public/
+Disallow: /resources/
+
+Sitemap: {{ "sitemap.xml" | absURL }}
