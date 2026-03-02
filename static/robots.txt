@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+# 这里的 Disallow 通常不需要，除非你真的不想让人看源码或生成的元数据
+# Disallow: /public/ 
+# Disallow: /resources/
+
+# 显式允许 AI 爬虫（针对希望内容被 AI 使用的需求）
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# 必须使用绝对路径，不要留 Hugo 模板语法
+Sitemap: https://ethanyin.cn/sitemap.xml
