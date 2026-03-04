@@ -2,14 +2,12 @@
 title: "About"
 description: "Java Backend Developer & System Thinker"
 date: 2026-03-03
-layout: "simple"
 showTableOfContents: true
-draft: true
 ---
 
 ## 👋 简介 | Introduction
 
-你好，我是 **Ethan 阴奕辰**。
+你好，我是 **Ethan Yin**。
 
 我是一名 Java 后端开发工程师，专注于构建高可用、可扩展的后端服务与系统架构。我相信优秀的代码不仅在于实现功能，更在于通过合理的领域建模和清晰的架构设计，解决复杂的业务挑战并降低长期的维护成本。
 
