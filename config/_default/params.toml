@@ -11,8 +11,8 @@ autoSwitchAppearance = true
 
 enableA11y = false
 enableSearch = true
-enableCodeCopy = false
-enableStructuredBreadcrumbs = false
+enableCodeCopy = true
+enableStructuredBreadcrumbs = true
 # enableStyledScrollbar = true # disable to use native scrollbar style (defaults to true)
 
 replyByEmail = false
@@ -25,7 +25,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
+defaultBackgroundImage = "background.svg" # used as default for background images
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
@@ -41,7 +41,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [header]
-  layout = "basic" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -68,9 +68,9 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = true
-  # showAuthorBottom = false
-  showHero = false
+  # showAuthor = true
+  showAuthorBottom = true
+  showHero = true
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
@@ -84,15 +84,15 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
+  showTaxonomies = true # use showTaxonomies OR showCategoryOnly, not both
   showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
   showAuthorsBadges = false
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
-  showZenMode = false
+  showZenMode = true
   # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
 
 [list]

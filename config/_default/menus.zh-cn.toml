@@ -20,6 +20,11 @@
  pageRef = "intro"
  weight = 11
 
+[[main]]
+  pre = "github"
+  name = ""
+  url = "https://github.com/JocelynFloresz"
+  weight = 12
 
 #[[main]]
 #  name = "Parent"

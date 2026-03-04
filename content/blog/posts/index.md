@@ -1,10 +1,10 @@
 ---
-title: "Hugo 与 Blowfish 主题全功能深度测试指南"
+title: "主题全功能深度测试指南"
 date: 2026-03-03T10:00:00+08:00
 lastmod: 2026-03-03T10:00:00+08:00
 draft: false
-description: "这是一篇包含 Hugo 原生高级功能与 Blowfish 主题所有核心 Shortcode 的极限测试文章，用于排查渲染问题和配置遗漏。"
-tags: ["Hugo", "Blowfish", "Shortcode", "Markdown"]
+description: "这是一篇包含 Hugo 原生高级功能与 主题所有核心 Shortcode 的极限测试文章，用于排查渲染问题和配置遗漏。"
+tags: ["Hugo", "Shortcode", "Markdown"]
 categories: ["技术测试", "前端构建"]
 authors: ["Admin"]
 
@@ -31,7 +31,7 @@ chart: true
 ---
 
 {{< lead >}}
-这是 Blowfish 的 **Lead** 组件。它通常用于文章开头的执行摘要 (Executive Summary)，在视觉上会比正文有更大的字号和更明显的行距，用于快速抓住读者眼球。
+这是 **Lead** 组件。它通常用于文章开头的执行摘要 (Executive Summary)，在视觉上会比正文有更大的字号和更明显的行距，用于快速抓住读者眼球。
 {{< /lead >}}
 
 ## 1. 复杂 Markdown 语法测试

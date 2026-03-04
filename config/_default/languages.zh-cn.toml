@@ -2,7 +2,7 @@ disabled = false
 languageCode = "zh-cn"
 languageName = "Simplified Chinese"
 weight = 1
-title = "Ethan Yin Blog"
+title = "Ethan Yin's Blog"
 
 [params]
   displayName = "CN"
@@ -17,10 +17,10 @@ title = "Ethan Yin Blog"
 [params.author]
   name = "Ethan Yin"
   email = "a380803250@gmail.com"
-  image = "img/blowfish_logo.png"
-  imageQuality = 96
+  image = "avator.jpg"
+  imageQuality = 100
   headline = "不喜欢骑摩托和健身的程序员不会是一名好厨师👩🏻‍🍳"
-  bio = "A little bit about me."
+  bio = "昨天是昨天,现在是现在."
   links = [
     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
