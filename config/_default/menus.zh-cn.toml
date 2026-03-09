@@ -12,19 +12,30 @@
 
 [[main]]
  name = "Blog"
- pageRef = "posts"
+ pageRef = "blog"
  weight = 10
+
+[[main]]
+ name = "Portfolio"
+ pageRef = "portfolio"
+ weight = 11
 
 [[main]]
  name = "About"
  pageRef = "intro"
- weight = 11
+ weight = 12
+
+
+[[main]]
+ name = "Gallery"
+ pageRef = "gallery"
+ weight = 13
 
 [[main]]
   pre = "github"
   name = ""
   url = "https://github.com/JocelynFloresz"
-  weight = 12
+  weight = 14
 
 #[[main]]
 #  name = "Parent"

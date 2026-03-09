@@ -9,5 +9,5 @@ description: "前蚂蚁集团顶尖AI应用工程师！负责ALMP工作流平台
   breakLines=false
   classList="italic text-primary-500"
 >}}
-AI应用工程师.
+精通Control C & Control V
 {{< /typeit >}}
