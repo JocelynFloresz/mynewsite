@@ -1,5 +1,5 @@
 ---
-title: "构建高可用 LLM-as-a-Judge：基于 DSPy 与 Argilla 的自动化标注与人工对齐工作流"
+title: "构建AI生成式搜索Judge模型数据集: 基于 DSPy 与 Argilla 的自反馈工作流 "
 date: 2026-03-18T22:05:00+08:00
 draft: false
 ---
