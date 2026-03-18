@@ -1,6 +1,9 @@
 ---
-title: "构建AI生成式搜索Judge模型数据集: 基于 DSPy 与 Argilla 的自反馈工作流 "
+title: "AI生成式搜索Judge模型的数据集构建: 基于 DSPy 与 Argilla 的自反馈工作流 "
 date: 2026-03-18T22:05:00+08:00
+tags: [ "LLM as a Judge", "Argilla", "DSPy", "SFT"]
+description: "本文详细解析如何利用 DSPy 与 Argilla 构建可复现的 LLM-as-a-Judge 评估闭环，将不稳定的提示词调优转化为“机器预测-人工纠偏-自动编译”的工程化流程，解决大模型评估中的对齐偏差与脆弱性痛点。"
+categories: ["AI"]
 draft: false
 ---
 
