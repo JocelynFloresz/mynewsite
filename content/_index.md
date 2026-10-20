@@ -1,13 +1,5 @@
 ---
 title: "阴奕辰(Ethan Yin)"
-description: "前蚂蚁集团顶尖AI应用工程师！负责ALMP工作流平台的搭建与AlipayHK智能AI助理的架构."
+description: "自动化立库系统公司 CTO，负责技术中心，统筹机械、电气与软件研发。"
 ---
-{{< typeit 
-  tag="h3"
-  initialString="Java 后端程序员"
-  speed=60
-  breakLines=false
-  classList="italic text-primary-500"
->}}
-AI 应用工程师
-{{< /typeit >}}
+负责技术中心，统筹机械、电气与软件研发。

@@ -11,7 +11,7 @@ title = "Ethan Yin's Blog"
   dateFormat = "2 January 2006"
   logo = "icons8-java-96.apng.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "My awesome website"
+  description = "自动化立库系统公司 CTO，负责技术中心，统筹机械、电气与软件研发。"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
@@ -19,8 +19,8 @@ title = "Ethan Yin's Blog"
   email = "a380803250@gmail.com"
   image = "avator.jpg"
   imageQuality = 100
-  headline = "不骑摩托和健身的程序员不是一名好厨师👩🏻‍🍳"
-  bio = "别想太多, 先做再说."
+  headline = "自动化立库系统公司 CTO"
+  bio = "负责技术中心，统筹机械、电气与软件研发。"
   links = [
     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },

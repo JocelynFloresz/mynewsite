@@ -21,21 +21,26 @@
  weight = 11
 
 [[main]]
+ name = "智能物流"
+ pageRef = "smart-logistics"
+ weight = 12
+
+[[main]]
  name = "About"
  pageRef = "intro"
- weight = 12
+ weight = 13
 
 
 [[main]]
  name = "Gallery"
  pageRef = "gallery"
- weight = 13
+ weight = 14
 
 [[main]]
   pre = "github"
   name = ""
   url = "https://github.com/JocelynFloresz"
-  weight = 14
+  weight = 15
 
 #[[main]]
 #  name = "Parent"
